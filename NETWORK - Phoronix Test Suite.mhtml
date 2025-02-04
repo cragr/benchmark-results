@@ -1,0 +1,627 @@
+------MultipartBoundary--sXGmf0IFMrDEwzmZc9ayDxQr6SpXG4bMG6EKYiHZNo----
+Content-Type: text/html
+Content-ID: <frame-88F82DE4B75C787AF737DED498E47ED0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://benchmark.lab.mydc.dev/?result/o36c748wbogg0kososwk80kkogosskg,ijldeslqlpss84sck000c8so4cws04k,q43h2uughyscwwwo8g8wo8kokk884wc,bbxc5y3pnago4ooko400o0kc080w8co,ob0j40vy6g0g8g0ck4g8sw8g0k0ck4g,q5kk2rqcd9w84wow4wko88og88sskc4,bsbrj755g204ggc8c0swcok44ocwcwc,kahjrv40u8g8cgsokc8g84cksgww0ck&export=html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body><title>NETWORK - Phoronix Test Suite</title><h1>NETWORK</h1><p style=3D"text-a=
+lign: center; overflow: auto;"><svg xmlns=3D"http://www.w3.org/2000/svg" xm=
+lns:xlink=3D"http://www.w3.org/1999/xlink" version=3D"1.1" font-family=3D"s=
+ans-serif, droid-sans, helvetica, verdana, tahoma" viewBox=3D"0 0 3795 646"=
+ width=3D"3795" height=3D"646" preserveAspectRatio=3D"xMinYMin meet"><rect =
+x=3D"1" y=3D"1" width=3D"3794" height=3D"645" fill=3D"#FEFEFE" stroke=3D"#7=
+57575" stroke-width=3D"1"></rect><path d=3D"m74 22v9m-5-16v16m-5-28v28m-23-=
+2h12.5c2.485281 0 4.5-2.014719 4.5-4.5s-2.014719-4.5-4.5-4.5h-8c-2.485281 0=
+-4.5-2.014719-4.5-4.5s2.014719-4.5 4.5-4.5h12.5m-21 5h-11m11 13h-2c-4.97056=
+3 0-9-4.029437-9-9v-20m-24 40v-20c0-4.970563 4.0294373-9 9-9 4.970563 0 9 4=
+.029437 9 9s-4.029437 9-9 9h-9" stroke=3D"#000000" stroke-width=3D"4" fill=
+=3D"none" transform=3D"translate(14,28)"></path><line x1=3D"107" y1=3D"162"=
+ x2=3D"3795" y2=3D"162" stroke=3D"#BABABA" stroke-width=3D"273" stroke-dash=
+array=3D"461,461"></line><line x1=3D"1898" y1=3D"73" x2=3D"1898" y2=3D"298"=
+ stroke=3D"#949494" stroke-width=3D"3795" stroke-dasharray=3D"15,15"></line=
+><line x1=3D"107" y1=3D"162" x2=3D"3795" y2=3D"162" stroke=3D"#757575" stro=
+ke-width=3D"273" stroke-dasharray=3D"1,460"></line><rect x=3D"1" y=3D"1" wi=
+dth=3D"3793" height=3D"25" fill=3D"#231f20"></rect><text x=3D"5" y=3D"19" f=
+ont-size=3D"17" fill=3D"#FEFEFE" text-anchor=3D"start">NETWORK</text><line =
+x1=3D"1" y1=3D"25" x2=3D"3794" y2=3D"25" stroke=3D"#757575" stroke-width=3D=
+"1"></line><g font-size=3D"8" font-weight=3D"bold" fill=3D"#065695" text-an=
+chor=3D"end"><text x=3D"105" y=3D"84">Processor</text><text x=3D"105" y=3D"=
+99">Motherboard</text><text x=3D"105" y=3D"114">Memory</text><text x=3D"105=
+" y=3D"129">Disk</text><text x=3D"105" y=3D"144">Graphics</text><text x=3D"=
+105" y=3D"159">Chipset</text><text x=3D"105" y=3D"174">Network</text><text =
+x=3D"105" y=3D"189">Audio</text><text x=3D"105" y=3D"204">Monitor</text><te=
+xt x=3D"105" y=3D"219">OS</text><text x=3D"105" y=3D"234">Kernel</text><tex=
+t x=3D"105" y=3D"249">Compiler</text><text x=3D"105" y=3D"264">File-System<=
+/text><text x=3D"105" y=3D"279">Screen Resolution</text><text x=3D"105" y=
+=3D"294">System Layer</text></g><g font-size=3D"8" fill=3D"#065695" font-we=
+ight=3D"bold" text-anchor=3D"middle" dominant-baseline=3D"text-before-edge"=
+><text x=3D"338" y=3D"49">hyperv-centos9</text><text x=3D"799" y=3D"49">esx=
+i-centos9</text><text x=3D"1260" y=3D"49">debian-centos9</text><text x=3D"1=
+721" y=3D"49">rhel9-centos9</text><text x=3D"2182" y=3D"49">nutanix-centos9=
+</text><text x=3D"2643" y=3D"49">proxmox-centos9</text><text x=3D"3104" y=
+=3D"49">harvester-centos9</text><text x=3D"3565" y=3D"49">ocpvirt418-centos=
+9</text></g><g fill=3D"#BABABA"><rect x=3D"107" y=3D"104" width=3D"922" hei=
+ght=3D"15" fill=3D"#949494"></rect><rect x=3D"107" y=3D"209" width=3D"3688"=
+ height=3D"15"></rect><rect x=3D"107" y=3D"224" width=3D"2305" height=3D"15=
+" fill=3D"#949494"></rect><rect x=3D"107" y=3D"239" width=3D"3688" height=
+=3D"15"></rect><rect x=3D"107" y=3D"254" width=3D"3688" height=3D"15" fill=
+=3D"#949494"></rect><rect x=3D"568" y=3D"74" width=3D"1383" height=3D"15"><=
+/rect><rect x=3D"1029" y=3D"119" width=3D"922" height=3D"15"></rect><rect x=
+=3D"1029" y=3D"284" width=3D"1383" height=3D"15" fill=3D"#949494"></rect><r=
+ect x=3D"1490" y=3D"104" width=3D"922" height=3D"15" fill=3D"#949494"></rec=
+t><rect x=3D"1490" y=3D"134" width=3D"2305" height=3D"15" fill=3D"#949494">=
+</rect><rect x=3D"2412" y=3D"104" width=3D"922" height=3D"15" fill=3D"#9494=
+94"></rect><rect x=3D"2412" y=3D"194" width=3D"1383" height=3D"15" fill=3D"=
+#949494"></rect><rect x=3D"2412" y=3D"224" width=3D"1383" height=3D"15" fil=
+l=3D"#949494"></rect><rect x=3D"2412" y=3D"269" width=3D"1383" height=3D"15=
+"></rect><rect x=3D"2873" y=3D"284" width=3D"922" height=3D"15" fill=3D"#94=
+9494"></rect></g><g text-anchor=3D"middle" font-size=3D"8" fill=3D"#065695"=
+><a xlink:href=3D"http://openbenchmarking.org/s/Intel%20Xeon%20Gold%206122%=
+20@%201.80GHz%20(8%20Cores%20/%2016%20Threads)" target=3D"_blank"><text x=
+=3D"338" y=3D"85">Intel Xeon Gold 6122 @ 1.80GHz (8 Cores / 16 Threads)</te=
+xt></a><a xlink:href=3D"http://openbenchmarking.org/s/Microsoft%20Virtual%2=
+0Machine%20v7.0%20(090008%20BIOS)" target=3D"_blank"><text x=3D"338" y=3D"1=
+00">Microsoft Virtual Machine v7.0 (090008 BIOS)</text></a><text x=3D"568" =
+y=3D"115" fill=3D"#005a00">32GB</text><a xlink:href=3D"http://openbenchmark=
+ing.org/s/32GB%20Virtual%20Disk" target=3D"_blank"><text x=3D"338" y=3D"130=
+">32GB Virtual Disk</text></a><text x=3D"338" y=3D"145">hyperv_drmdrmfb</te=
+xt><a xlink:href=3D"http://openbenchmarking.org/s/CentOS%20Stream%209" targ=
+et=3D"_blank"><text x=3D"1951" y=3D"220">CentOS Stream 9</text></a><text x=
+=3D"1260" y=3D"235" fill=3D"#005a00">5.14.0-559.el9.x86_64 (x86_64)</text><=
+a xlink:href=3D"http://openbenchmarking.org/s/GCC%2011.5.0%2020240719" targ=
+et=3D"_blank"><text x=3D"1951" y=3D"250">GCC 11.5.0 20240719</text></a><tex=
+t x=3D"1951" y=3D"265">xfs</text><text x=3D"338" y=3D"280">1024x768</text><=
+text x=3D"338" y=3D"295">microsoft</text><a xlink:href=3D"http://openbenchm=
+arking.org/s/2%20x%20Intel%20Xeon%20Gold%206122%20(16%20Cores)" target=3D"_=
+blank"><text x=3D"1260" y=3D"85" fill=3D"#005a00">2 x Intel Xeon Gold 6122 =
+(16 Cores)</text></a><a xlink:href=3D"http://openbenchmarking.org/s/Intel%2=
+0VMware%20Virtual%20440BX%20Desktop%20(6.00%20BIOS)" target=3D"_blank"><tex=
+t x=3D"799" y=3D"100">Intel VMware Virtual 440BX Desktop (6.00 BIOS)</text>=
+</a><text x=3D"799" y=3D"160">Intel 440BX/ZX/DX</text><a xlink:href=3D"http=
+://openbenchmarking.org/s/32GB%20Virtual%20disk" target=3D"_blank"><text x=
+=3D"799" y=3D"130">32GB Virtual disk</text></a><a xlink:href=3D"http://open=
+benchmarking.org/s/VMware%20SVGA%20II" target=3D"_blank"><text x=3D"799" y=
+=3D"145">VMware SVGA II</text></a><text x=3D"799" y=3D"175">VMware VMXNET3<=
+/text><text x=3D"799" y=3D"280">1280x800</text><text x=3D"799" y=3D"295">VM=
+ware</text><a xlink:href=3D"http://openbenchmarking.org/s/QEMU%20Standard%2=
+0PC%20(Q35%20+%20ICH9%202009)%20(1.16.2-debian-1.16.2-1%20BIOS)" target=3D"=
+_blank"><text x=3D"1260" y=3D"100">QEMU Standard PC (Q35 + ICH9 2009) (1.16=
+.2-debian-1.16.2-1 BIOS)</text></a><a xlink:href=3D"http://openbenchmarking=
+.org/s/2%20x%2016GB%20RAM%20QEMU" target=3D"_blank"><text x=3D"1260" y=3D"1=
+15">2 x 16GB RAM QEMU</text></a><text x=3D"1490" y=3D"130" fill=3D"#005a00"=
+>26GB</text><text x=3D"1260" y=3D"145">qxldrmfb</text><a xlink:href=3D"http=
+://openbenchmarking.org/s/QEMU%20Generic" target=3D"_blank"><text x=3D"1260=
+" y=3D"190">QEMU Generic</text></a><text x=3D"1260" y=3D"280">1024x768</tex=
+t><text x=3D"1721" y=3D"295" fill=3D"#005a00">KVM</text><a xlink:href=3D"ht=
+tp://openbenchmarking.org/s/Red%20Hat%20KVM%20RHEL%20(1.16.3-2.el9_5.1%20BI=
+OS)" target=3D"_blank"><text x=3D"1721" y=3D"100">Red Hat KVM RHEL (1.16.3-=
+2.el9_5.1 BIOS)</text></a><a xlink:href=3D"http://openbenchmarking.org/s/2%=
+20x%2016GB%20RAM%20Red%20Hat" target=3D"_blank"><text x=3D"1951" y=3D"115" =
+fill=3D"#005a00">2 x 16GB RAM Red Hat</text></a><text x=3D"2643" y=3D"145" =
+fill=3D"#005a00">bochs-drmdrmfb</text><text x=3D"1721" y=3D"205">QEMU Monit=
+or</text><text x=3D"1721" y=3D"280">1280x800</text><a xlink:href=3D"http://=
+openbenchmarking.org/s/2%20x%20Intel%20Xeon%20(Skylake%20IBRS%20no%20TSX)%2=
+0(16%20Cores)" target=3D"_blank"><text x=3D"2182" y=3D"85">2 x Intel Xeon (=
+Skylake IBRS no TSX) (16 Cores)</text></a><a xlink:href=3D"http://openbench=
+marking.org/s/Nutanix%20AHV%20(nutanix-ahv-4.20230302.1.2662.el8%20BIOS)" t=
+arget=3D"_blank"><text x=3D"2182" y=3D"100">Nutanix AHV (nutanix-ahv-4.2023=
+0302.1.2662.el8 BIOS)</text></a><a xlink:href=3D"http://openbenchmarking.or=
+g/s/32GB%20VDISK" target=3D"_blank"><text x=3D"2182" y=3D"130">32GB VDISK</=
+text></a><text x=3D"2182" y=3D"280">1024x768</text><a xlink:href=3D"http://=
+openbenchmarking.org/s/QEMU%20Virtual%202.5+%20(16%20Cores)" target=3D"_bla=
+nk"><text x=3D"2643" y=3D"85">QEMU Virtual 2.5+ (16 Cores)</text></a><a xli=
+nk:href=3D"http://openbenchmarking.org/s/QEMU%20Standard%20PC%20(i440FX%20+=
+%20PIIX%201996)%20(rel-1.16.3-0-ga6ed6b701f0a-prebuilt.qemu.org%20BIOS)" ta=
+rget=3D"_blank"><text x=3D"2643" y=3D"100">QEMU Standard PC (i440FX + PIIX =
+1996) (rel-1.16.3-0-ga6ed6b701f0a-prebuilt.qemu.org BIOS)</text></a><a xlin=
+k:href=3D"http://openbenchmarking.org/s/2%20x%2016GB%20RAM%20QEMU" target=
+=3D"_blank"><text x=3D"2873" y=3D"115" fill=3D"#005a00">2 x 16GB RAM QEMU</=
+text></a><a xlink:href=3D"http://openbenchmarking.org/s/34GB%20QEMU%20HDD" =
+target=3D"_blank"><text x=3D"2643" y=3D"130">34GB QEMU HDD</text></a><text =
+x=3D"3104" y=3D"205" fill=3D"#005a00">QEMU Monitor</text><text x=3D"3104" y=
+=3D"235" fill=3D"#005a00">5.14.0-554.el9.x86_64 (x86_64)</text><text x=3D"3=
+104" y=3D"280" fill=3D"#005a00">1280x800</text><a xlink:href=3D"http://open=
+benchmarking.org/s/KVM%20QEMU" target=3D"_blank"><text x=3D"2643" y=3D"295"=
+>KVM QEMU</text></a><a xlink:href=3D"http://openbenchmarking.org/s/Intel%20=
+Xeon%20(16%20Cores)" target=3D"_blank"><text x=3D"3104" y=3D"85">Intel Xeon=
+ (16 Cores)</text></a><a xlink:href=3D"http://openbenchmarking.org/s/SeaBIO=
+S%20rel-1.16.0-0-gd239552c-rebuilt.opensuse.org" target=3D"_blank"><text x=
+=3D"3104" y=3D"100">SeaBIOS rel-1.16.0-0-gd239552c-rebuilt.opensuse.org</te=
+xt></a><text x=3D"3104" y=3D"130">26GB</text><text x=3D"3334" y=3D"295" fil=
+l=3D"#005a00">KVM</text><a xlink:href=3D"http://openbenchmarking.org/s/16%2=
+0x%20Intel%20Xeon%20(Skylake%20IBRS)%20(16%20Cores)" target=3D"_blank"><tex=
+t x=3D"3565" y=3D"85">16 x Intel Xeon (Skylake IBRS) (16 Cores)</text></a><=
+a xlink:href=3D"http://openbenchmarking.org/s/Red%20Hat%20OpenShift%20Virtu=
+alization%20RHEL%20(1.16.3-2.el9_4.1%20BIOS)" target=3D"_blank"><text x=3D"=
+3565" y=3D"100">Red Hat OpenShift Virtualization RHEL (1.16.3-2.el9_4.1 BIO=
+S)</text></a><a xlink:href=3D"http://openbenchmarking.org/s/2%20x%2016GB%20=
+RAM%20Red%20Hat" target=3D"_blank"><text x=3D"3565" y=3D"115">2 x 16GB RAM =
+Red Hat</text></a><text x=3D"3565" y=3D"130">30GB</text></g><line x1=3D"189=
+8" y1=3D"73" x2=3D"1898" y2=3D"298" stroke=3D"#949494" stroke-width=3D"3795=
+" stroke-dasharray=3D"1,14"></line><rect x=3D"0" y=3D"298" width=3D"3795" h=
+eight=3D"348" fill=3D"#231f20"></rect><text x=3D"3793" y=3D"643" font-size=
+=3D"8" fill=3D"#FFFFFF" text-anchor=3D"end">Phoronix Test Suite</text><text=
+ x=3D"6" y=3D"315" style=3D"font-weight: bold" text-anchor=3D"start" fill=
+=3D"#FEFEFE" font-size=3D"8">Kernel Details</text><text x=3D"6" y=3D"328" t=
+ext-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8">- Transparent Huge Pa=
+ges: always</text><text x=3D"6" y=3D"341" style=3D"font-weight: bold" text-=
+anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8">Compiler Details</text><t=
+ext x=3D"6" y=3D"354" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8=
+">- --build=3Dx86_64-redhat-linux --disable-libunwind-exceptions --enable-_=
+_cxa_atexit --enable-bootstrap --enable-cet --enable-checking=3Drelease --e=
+nable-gnu-indirect-function --enable-gnu-unique-object --enable-host-bind-n=
+ow --enable-host-pie --enable-initfini-array --enable-languages=3Dc,c++,for=
+tran,lto --enable-link-serialization=3D1 --enable-multilib --enable-offload=
+-targets=3Dnvptx-none --enable-plugin --enable-shared --enable-threads=3Dpo=
+six --mandir=3D/usr/share/man --with-arch_32=3Dx86-64 --with-arch_64=3Dx86-=
+64-v2 --with-build-config=3Dbootstrap-lto --with-gcc-major-version-only --w=
+ith-linker-hash-style=3Dgnu --with-tune=3Dgeneric --without-cuda-driver --w=
+ithout-isl</text><text x=3D"6" y=3D"367" style=3D"font-weight: bold" text-a=
+nchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8">Processor Details</text><t=
+ext x=3D"6" y=3D"380" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8=
+">- hyperv-centos9: Scaling Governor: intel_cpufreq performance - CPU Micro=
+code: 0xffffffff</text><text x=3D"6" y=3D"391" text-anchor=3D"start" fill=
+=3D"#FEFEFE" font-size=3D"8">- esxi-centos9: CPU Microcode: 0x2007006</text=
+><text x=3D"6" y=3D"402" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=
+=3D"8">- debian-centos9: CPU Microcode: 0x2007006</text><text x=3D"6" y=3D"=
+413" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8">- rhel9-centos9=
+: CPU Microcode: 0x2007006</text><text x=3D"6" y=3D"424" text-anchor=3D"sta=
+rt" fill=3D"#FEFEFE" font-size=3D"8">- nutanix-centos9: CPU Microcode: 0x1<=
+/text><text x=3D"6" y=3D"435" text-anchor=3D"start" fill=3D"#FEFEFE" font-s=
+ize=3D"8">- proxmox-centos9: CPU Microcode: 0x1</text><text x=3D"6" y=3D"44=
+6" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8">- harvester-cento=
+s9: CPU Microcode: 0x1</text><text x=3D"6" y=3D"457" text-anchor=3D"start" =
+fill=3D"#FEFEFE" font-size=3D"8">- ocpvirt418-centos9: CPU Microcode: 0x1</=
+text><text x=3D"6" y=3D"470" style=3D"font-weight: bold" text-anchor=3D"sta=
+rt" fill=3D"#FEFEFE" font-size=3D"8">Security Details</text><text x=3D"6" y=
+=3D"483" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8"><tspan x=3D=
+"6" y=3D"483" dx=3D"0" dy=3D"0">- hyperv-centos9: SELinux + gather_data_sam=
+pling: Not affected + itlb_multihit: KVM: Mitigation of VMX unsupported + l=
+1tf: Mitigation of PTE Inversion + mds: Mitigation of Clear buffers; SMT Ho=
+st state unknown + meltdown: Mitigation of PTI + mmio_stale_data: Mitigatio=
+n of Clear buffers; SMT Host state unknown + reg_file_data_sampling: Not af=
+fected + retbleed: Mitigation of IBRS + spec_rstack_overflow: Not affected =
++ spec_store_bypass: Mitigation of SSB disabled via prctl + spectre_v1: Mit=
+igation of usercopy/swapgs barriers and __user pointer sanitization + spect=
+re_v2: Mitigation of IBRS; IBPB: conditional; STIBP: conditional; RSB filli=
+ng; PBRSB-eIBRS: Not affected; BHI: SW loop KVM: SW loop + srbds: Not affec=
+ted + tsx_async_abort: Mitigation of Clear buffers; SMT Host state unknown =
+</tspan></text><text x=3D"6" y=3D"493" text-anchor=3D"start" fill=3D"#FEFEF=
+E" font-size=3D"8"><tspan x=3D"6" y=3D"493" dx=3D"0" dy=3D"0">- esxi-centos=
+9: SELinux + gather_data_sampling: Unknown: Dependent on hypervisor status =
++ itlb_multihit: KVM: Mitigation of VMX unsupported + l1tf: Mitigation of P=
+TE Inversion + mds: Mitigation of Clear buffers; SMT Host state unknown + m=
+eltdown: Mitigation of PTI + mmio_stale_data: Mitigation of Clear buffers; =
+SMT Host state unknown + reg_file_data_sampling: Not affected + retbleed: M=
+itigation of IBRS + spec_rstack_overflow: Not affected + spec_store_bypass:=
+ Mitigation of SSB disabled via prctl + spectre_v1: Mitigation of usercopy/=
+swapgs barriers and __user pointer sanitization + spectre_v2: Mitigation of=
+ IBRS; IBPB: conditional; STIBP: disabled; RSB filling; PBRSB-eIBRS: Not af=
+fected; BHI: SW loop KVM: SW loop + srbds: Not affected + tsx_async_abort: =
+Not affected </tspan></text><text x=3D"6" y=3D"503" text-anchor=3D"start" f=
+ill=3D"#FEFEFE" font-size=3D"8"><tspan x=3D"6" y=3D"503" dx=3D"0" dy=3D"0">=
+- debian-centos9: SELinux + gather_data_sampling: Unknown: Dependent on hyp=
+ervisor status + itlb_multihit: Not affected + l1tf: Mitigation of PTE Inve=
+rsion; VMX: flush not necessary SMT disabled + mds: Mitigation of Clear buf=
+fers; SMT Host state unknown + meltdown: Mitigation of PTI + mmio_stale_dat=
+a: Vulnerable: Clear buffers attempted no microcode; SMT Host state unknown=
+ + reg_file_data_sampling: Not affected + retbleed: Mitigation of IBRS + sp=
+ec_rstack_overflow: Not affected + spec_store_bypass: Mitigation of SSB dis=
+abled via prctl + spectre_v1: Mitigation of usercopy/swapgs barriers and __=
+user pointer sanitization + spectre_v2: Mitigation of IBRS; IBPB: condition=
+al; STIBP: disabled; RSB filling; PBRSB-eIBRS: Not affected; BHI: SW loop K=
+VM: SW loop + srbds: Not affected + tsx_async_abort:</tspan><tspan x=3D"6" =
+y=3D"503" dx=3D"5" dy=3D"9"> Mitigation of Clear buffers; SMT Host state un=
+known </tspan></text><text x=3D"6" y=3D"523" text-anchor=3D"start" fill=3D"=
+#FEFEFE" font-size=3D"8"><tspan x=3D"6" y=3D"523" dx=3D"0" dy=3D"0">- rhel9=
+-centos9: SELinux + gather_data_sampling: Not affected + itlb_multihit: Not=
+ affected + l1tf: Mitigation of PTE Inversion; VMX: flush not necessary SMT=
+ disabled + mds: Mitigation of Clear buffers; SMT Host state unknown + melt=
+down: Mitigation of PTI + mmio_stale_data: Mitigation of Clear buffers; SMT=
+ Host state unknown + reg_file_data_sampling: Not affected + retbleed: Miti=
+gation of IBRS + spec_rstack_overflow: Not affected + spec_store_bypass: Mi=
+tigation of SSB disabled via prctl + spectre_v1: Mitigation of usercopy/swa=
+pgs barriers and __user pointer sanitization + spectre_v2: Mitigation of IB=
+RS; IBPB: conditional; STIBP: disabled; RSB filling; PBRSB-eIBRS: Not affec=
+ted; BHI: SW loop KVM: SW loop + srbds: Not affected + tsx_async_abort: Mit=
+igation of Clear buffers; SMT Host state unknown </tspan></text><text x=3D"=
+6" y=3D"533" text-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8"><tspan =
+x=3D"6" y=3D"533" dx=3D"0" dy=3D"0">- nutanix-centos9: SELinux + gather_dat=
+a_sampling: Unknown: Dependent on hypervisor status + itlb_multihit: KVM: M=
+itigation of VMX unsupported + l1tf: Mitigation of PTE Inversion + mds: Mit=
+igation of Clear buffers; SMT Host state unknown + meltdown: Mitigation of =
+PTI + mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SM=
+T Host state unknown + reg_file_data_sampling: Not affected + retbleed: Mit=
+igation of IBRS + spec_rstack_overflow: Not affected + spec_store_bypass: M=
+itigation of SSB disabled via prctl + spectre_v1: Mitigation of usercopy/sw=
+apgs barriers and __user pointer sanitization + spectre_v2: Mitigation of I=
+BRS; IBPB: conditional; STIBP: disabled; RSB filling; PBRSB-eIBRS: Not affe=
+cted; BHI: SW loop KVM: SW loop + srbds: Not affected + tsx_async_abort: No=
+t affected </tspan></text><text x=3D"6" y=3D"543" text-anchor=3D"start" fil=
+l=3D"#FEFEFE" font-size=3D"8">- proxmox-centos9: SELinux + gather_data_samp=
+ling: Not affected + itlb_multihit: KVM: Mitigation of VMX unsupported + l1=
+tf: Mitigation of PTE Inversion + mds: Vulnerable: Clear buffers attempted =
+no microcode; SMT Host state unknown + meltdown: Mitigation of PTI + mmio_s=
+tale_data: Unknown: No mitigations + reg_file_data_sampling: Not affected +=
+ retbleed: Not affected + spec_rstack_overflow: Not affected + spec_store_b=
+ypass: Vulnerable + spectre_v1: Mitigation of usercopy/swapgs barriers and =
+__user pointer sanitization + spectre_v2: Mitigation of Retpolines; STIBP: =
+disabled; RSB filling; PBRSB-eIBRS: Not affected; BHI: Retpoline + srbds: N=
+ot affected + tsx_async_abort: Not affected</text><text x=3D"6" y=3D"554" t=
+ext-anchor=3D"start" fill=3D"#FEFEFE" font-size=3D"8"><tspan x=3D"6" y=3D"5=
+54" dx=3D"0" dy=3D"0">- harvester-centos9: gather_data_sampling: Unknown: D=
+ependent on hypervisor status + itlb_multihit: Not affected + l1tf: Mitigat=
+ion of PTE Inversion; VMX: flush not necessary SMT disabled + mds: Mitigati=
+on of Clear buffers; SMT Host state unknown + meltdown: Mitigation of PTI +=
+ mmio_stale_data: Vulnerable: Clear buffers attempted no microcode; SMT Hos=
+t state unknown + reg_file_data_sampling: Not affected + retbleed: Mitigati=
+on of IBRS + spec_rstack_overflow: Not affected + spec_store_bypass: Mitiga=
+tion of SSB disabled via prctl + spectre_v1: Mitigation of usercopy/swapgs =
+barriers and __user pointer sanitization + spectre_v2: Mitigation of IBRS; =
+IBPB: conditional; STIBP: disabled; RSB filling; PBRSB-eIBRS: Not affected;=
+ BHI: SW loop KVM: SW loop + srbds: Not affected + tsx_async_abort: Mitigat=
+ion</tspan><tspan x=3D"6" y=3D"554" dx=3D"5" dy=3D"9"> of Clear buffers; SM=
+T Host state unknown </tspan></text><text x=3D"6" y=3D"574" text-anchor=3D"=
+start" fill=3D"#FEFEFE" font-size=3D"8"><tspan x=3D"6" y=3D"574" dx=3D"0" d=
+y=3D"0">- ocpvirt418-centos9: SELinux + gather_data_sampling: Not affected =
++ itlb_multihit: Not affected + l1tf: Mitigation of PTE Inversion; VMX: flu=
+sh not necessary SMT disabled + mds: Mitigation of Clear buffers; SMT Host =
+state unknown + meltdown: Mitigation of PTI + mmio_stale_data: Mitigation o=
+f Clear buffers; SMT Host state unknown + reg_file_data_sampling: Not affec=
+ted + retbleed: Mitigation of IBRS + spec_rstack_overflow: Not affected + s=
+pec_store_bypass: Mitigation of SSB disabled via prctl + spectre_v1: Mitiga=
+tion of usercopy/swapgs barriers and __user pointer sanitization + spectre_=
+v2: Mitigation of IBRS; IBPB: conditional; STIBP: disabled; RSB filling; PB=
+RSB-eIBRS: Not affected; BHI: SW loop KVM: SW loop + srbds: Not affected + =
+tsx_async_abort: Mitigation of Clear buffers; SMT Host state unknown </tspa=
+n></text></svg>
+</p><p style=3D"text-align: center; overflow: auto;"><svg xmlns=3D"http://w=
+ww.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" version=3D=
+"1.1" font-family=3D"sans-serif, droid-sans, helvetica, verdana, tahoma" vi=
+ewBox=3D"0 0 1342 153" width=3D"1342" height=3D"153" preserveAspectRatio=3D=
+"xMinYMin meet"><rect x=3D"1" y=3D"1" width=3D"1341" height=3D"152" fill=3D=
+"#FEFEFE" stroke=3D"#757575" stroke-width=3D"1"></rect><path d=3D"m74 22v9m=
+-5-16v16m-5-28v28m-23-2h12.5c2.485281 0 4.5-2.014719 4.5-4.5s-2.014719-4.5-=
+4.5-4.5h-8c-2.485281 0-4.5-2.014719-4.5-4.5s2.014719-4.5 4.5-4.5h12.5m-21 5=
+h-11m11 13h-2c-4.970563 0-9-4.029437-9-9v-20m-24 40v-20c0-4.970563 4.029437=
+3-9 9-9 4.970563 0 9 4.029437 9 9s-4.029437 9-9 9h-9" stroke=3D"#000000" st=
+roke-width=3D"4" fill=3D"none" transform=3D"translate(71,28)"></path><line =
+x1=3D"222" y1=3D"81" x2=3D"1342" y2=3D"81" stroke=3D"#BABABA" stroke-width=
+=3D"112" stroke-dasharray=3D"140,140"></line><line x1=3D"671" y1=3D"73" x2=
+=3D"671" y2=3D"137" stroke=3D"#949494" stroke-width=3D"1342" stroke-dasharr=
+ay=3D"16,16"></line><line x1=3D"222" y1=3D"81" x2=3D"1342" y2=3D"81" stroke=
+=3D"#757575" stroke-width=3D"112" stroke-dasharray=3D"1,139"></line><rect x=
+=3D"1" y=3D"1" width=3D"1340" height=3D"25" fill=3D"#231f20"></rect><text x=
+=3D"5" y=3D"19" font-size=3D"17" fill=3D"#FEFEFE" text-anchor=3D"start">NET=
+WORK</text><line x1=3D"1" y1=3D"25" x2=3D"1341" y2=3D"25" stroke=3D"#757575=
+" stroke-width=3D"1"></line><g font-size=3D"10" font-weight=3D"bold" fill=
+=3D"#065695" text-anchor=3D"end"><a xlink:href=3D"https://openbenchmarking.=
+org/test/pts/ethr-1.2.1" target=3D"_blank"><text x=3D"220" y=3D"85">ethr: T=
+CP - Latency - 8</text></a><a xlink:href=3D"https://openbenchmarking.org/te=
+st/pts/ethr-1.2.1" target=3D"_blank"><text x=3D"220" y=3D"101">ethr: TCP - =
+Bandwidth - 8</text></a><a xlink:href=3D"https://openbenchmarking.org/test/=
+pts/ethr-1.2.1" target=3D"_blank"><text x=3D"220" y=3D"117">ethr: TCP - Con=
+nections/s - 8</text></a><a xlink:href=3D"https://openbenchmarking.org/test=
+/pts/iperf-1.2.0" target=3D"_blank"><text x=3D"220" y=3D"133">iperf: 60 Sec=
+onds - TCP - 10</text></a></g><g font-size=3D"10" fill=3D"#065695" font-wei=
+ght=3D"bold" text-anchor=3D"middle" dominant-baseline=3D"text-before-edge">=
+<text x=3D"292" y=3D"49">hyperv-centos9</text><text x=3D"432" y=3D"49">esxi=
+-centos9</text><text x=3D"572" y=3D"49">debian-centos9</text><text x=3D"712=
+" y=3D"49">rhel9-centos9</text><text x=3D"852" y=3D"49">nutanix-centos9</te=
+xt><text x=3D"992" y=3D"49">proxmox-centos9</text><text x=3D"1132" y=3D"49"=
+>harvester-centos9</text><text x=3D"1272" y=3D"49">ocpvirt418-centos9</text=
+></g><g fill=3D"#BABABA"></g><g text-anchor=3D"middle" font-size=3D"10" fil=
+l=3D"#065695"><text x=3D"292" y=3D"86" fill=3D"#C80000">157.348</text><text=
+ x=3D"292" y=3D"102">9.41</text><text x=3D"292" y=3D"118" fill=3D"#005a00">=
+510</text><text x=3D"292" y=3D"134">9408</text><text x=3D"432" y=3D"86">107=
+.036</text><text x=3D"432" y=3D"102" fill=3D"#005a00">9.42</text><text x=3D=
+"432" y=3D"118" fill=3D"#005a00">510</text><text x=3D"432" y=3D"134" fill=
+=3D"#005a00">9415</text><text x=3D"572" y=3D"86">131.787</text><text x=3D"5=
+72" y=3D"102">9.41</text><text x=3D"572" y=3D"118">501</text><text x=3D"572=
+" y=3D"134">9407</text><text x=3D"712" y=3D"86" fill=3D"#005a00">94.970</te=
+xt><text x=3D"712" y=3D"102">9.41</text><text x=3D"712" y=3D"118" fill=3D"#=
+005a00">510</text><text x=3D"712" y=3D"134">9410</text><text x=3D"852" y=3D=
+"86">113.179</text><text x=3D"852" y=3D"102">9.41</text><text x=3D"852" y=
+=3D"118">498</text><text x=3D"852" y=3D"134">9406</text><text x=3D"992" y=
+=3D"86">118.251</text><text x=3D"992" y=3D"102">9.36</text><text x=3D"992" =
+y=3D"118" fill=3D"#C80000">492</text><text x=3D"992" y=3D"134">9371</text><=
+text x=3D"1132" y=3D"86">99.947</text><text x=3D"1132" y=3D"102">9.33</text=
+><text x=3D"1132" y=3D"118" fill=3D"#005a00">510</text><text x=3D"1132" y=
+=3D"134">9313</text><text x=3D"1272" y=3D"86">148.930</text><text x=3D"1272=
+" y=3D"102" fill=3D"#C80000">9.26</text><text x=3D"1272" y=3D"118">507</tex=
+t><text x=3D"1272" y=3D"134" fill=3D"#C80000">9242</text></g><line x1=3D"67=
+1" y1=3D"73" x2=3D"671" y2=3D"137" stroke=3D"#949494" stroke-width=3D"1342"=
+ stroke-dasharray=3D"1,15"></line><rect x=3D"0" y=3D"137" width=3D"1342" he=
+ight=3D"16" fill=3D"#231f20"></rect><text x=3D"1340" y=3D"150" font-size=3D=
+"10" fill=3D"#FFFFFF" text-anchor=3D"end">Phoronix Test Suite</text></svg>
+</p><h2>Ethr</h2><h3>Protocol: TCP - Test: Latency - Threads: 8</h3><p alig=
+n=3D"center"><svg xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http:=
+//www.w3.org/1999/xlink" version=3D"1.1" font-family=3D"sans-serif, droid-s=
+ans, helvetica, verdana, tahoma" viewBox=3D"0 0 600 471" width=3D"600" heig=
+ht=3D"471" preserveAspectRatio=3D"xMinYMin meet"><g stroke=3D"#757575" stro=
+ke-width=3D"1"><line x1=3D"163" y1=3D"64" x2=3D"163" y2=3D"433"></line><lin=
+e x1=3D"163" y1=3D"432" x2=3D"586" y2=3D"432"></line></g><text x=3D"585" y=
+=3D"59" font-size=3D"8" fill=3D"#065695" text-anchor=3D"end" font-weight=3D=
+"bold">Phoronix Test Suite</text><polygon points=3D"163,56 172,61 172,51" f=
+ill=3D"#065695" stroke=3D"#949494" stroke-width=3D"1"></polygon><text x=3D"=
+175" y=3D"59" font-size=3D"8" font-weight=3D"bold" fill=3D"#065695" text-an=
+chor=3D"start">us, Fewer Is Better</text><a xlink:href=3D"https://openbench=
+marking.org/test/pts/ethr" target=3D"_blank"><text x=3D"6" y=3D"19" font-si=
+ze=3D"17" fill=3D"#231f20" text-anchor=3D"start" font-weight=3D"bold">Ethr =
+1.0</text></a><text x=3D"6" y=3D"36" font-size=3D"11" font-weight=3D"bold" =
+fill=3D"#231f20" text-anchor=3D"start">Protocol: TCP - Test: Latency - Thre=
+ads: 8</text><path d=3D"m74 22v9m-5-16v16m-5-28v28m-23-2h12.5c2.485281 0 4.=
+5-2.014719 4.5-4.5s-2.014719-4.5-4.5-4.5h-8c-2.485281 0-4.5-2.014719-4.5-4.=
+5s2.014719-4.5 4.5-4.5h12.5m-21 5h-11m11 13h-2c-4.970563 0-9-4.029437-9-9v-=
+20m-24 40v-20c0-4.970563 4.0294373-9 9-9 4.970563 0 9 4.029437 9 9s-4.02943=
+7 9-9 9h-9" stroke=3D"#231f20" stroke-width=3D"4" fill=3D"none" transform=
+=3D"translate(508,4)"></path><line x1=3D"163" y1=3D"110" x2=3D"163" y2=3D"4=
+21" stroke=3D"#757575" stroke-width=3D"11" stroke-dasharray=3D"1,45"></line=
+><g font-size=3D"11" fill=3D"#231f20" font-weight=3D"bold" text-anchor=3D"e=
+nd"><text y=3D"85" x=3D"158">hyperv-centos9</text><text y=3D"131" x=3D"158"=
+>esxi-centos9</text><text y=3D"177" x=3D"158">debian-centos9</text><text y=
+=3D"223" x=3D"158">rhel9-centos9</text><text y=3D"269" x=3D"158">nutanix-ce=
+ntos9</text><text y=3D"315" x=3D"158">proxmox-centos9</text><text y=3D"361"=
+ x=3D"158">harvester-centos9</text><text y=3D"407" x=3D"158">ocpvirt418-cen=
+tos9</text></g><g font-size=3D"10" fill=3D"#065695" text-anchor=3D"middle">=
+<text x=3D"235" y=3D"447">30</text><text x=3D"305" y=3D"447">60</text><text=
+ x=3D"375" y=3D"447">90</text><text x=3D"445" y=3D"447">120</text><text x=
+=3D"515" y=3D"447">150</text></g><g stroke=3D"#BABABA" stroke-width=3D"1"><=
+line x1=3D"235" y1=3D"64" x2=3D"235" y2=3D"427" stroke-dasharray=3D"5,5"></=
+line><line x1=3D"235" y1=3D"428" x2=3D"235" y2=3D"437"></line><line x1=3D"3=
+05" y1=3D"64" x2=3D"305" y2=3D"427" stroke-dasharray=3D"5,5"></line><line x=
+1=3D"305" y1=3D"428" x2=3D"305" y2=3D"437"></line><line x1=3D"375" y1=3D"64=
+" x2=3D"375" y2=3D"427" stroke-dasharray=3D"5,5"></line><line x1=3D"375" y1=
+=3D"428" x2=3D"375" y2=3D"437"></line><line x1=3D"445" y1=3D"64" x2=3D"445"=
+ y2=3D"427" stroke-dasharray=3D"5,5"></line><line x1=3D"445" y1=3D"428" x2=
+=3D"445" y2=3D"437"></line><line x1=3D"515" y1=3D"64" x2=3D"515" y2=3D"427"=
+ stroke-dasharray=3D"5,5"></line><line x1=3D"515" y1=3D"428" x2=3D"515" y2=
+=3D"437"></line></g><g stroke=3D"#949494" stroke-width=3D"1"><rect x=3D"163=
+" y=3D"70" height=3D"34" width=3D"369" fill=3D"#2196f3"></rect><rect x=3D"1=
+63" y=3D"116" height=3D"34" width=3D"251" fill=3D"#2196f3"></rect><rect x=
+=3D"163" y=3D"162" height=3D"34" width=3D"309" fill=3D"#2196f3"></rect><rec=
+t x=3D"163" y=3D"208" height=3D"34" width=3D"223" fill=3D"#2196f3"></rect><=
+rect x=3D"163" y=3D"254" height=3D"34" width=3D"265" fill=3D"#2196f3"></rec=
+t><rect x=3D"163" y=3D"300" height=3D"34" width=3D"277" fill=3D"#2196f3"></=
+rect><rect x=3D"163" y=3D"346" height=3D"34" width=3D"234" fill=3D"#2196f3"=
+></rect><rect x=3D"163" y=3D"392" height=3D"34" width=3D"349" fill=3D"#2196=
+f3"></rect></g><g font-size=3D"8" fill=3D"#065695" text-anchor=3D"end"><tex=
+t y=3D"101" x=3D"158">SE +/- 5.46, N =3D 15</text><text y=3D"147" x=3D"158"=
+>SE +/- 0.25, N =3D 3</text><text y=3D"193" x=3D"158">SE +/- 0.59, N =3D 3<=
+/text><text y=3D"239" x=3D"158">SE +/- 1.50, N =3D 12</text><text y=3D"285"=
+ x=3D"158">SE +/- 1.50, N =3D 3</text><text y=3D"331" x=3D"158">SE +/- 1.54=
+, N =3D 15</text><text y=3D"377" x=3D"158">SE +/- 1.42, N =3D 3</text><text=
+ y=3D"423" x=3D"158">SE +/- 1.66, N =3D 4</text></g><g font-size=3D"10" fil=
+l=3D"#FFFFFF" font-weight=3D"bold" text-anchor=3D"end"><text x=3D"527" y=3D=
+"93">157.35</text><text x=3D"409" y=3D"139">107.04</text><text x=3D"467" y=
+=3D"185">131.79</text><text x=3D"381" y=3D"231">94.97</text><text x=3D"423"=
+ y=3D"277">113.18</text><text x=3D"435" y=3D"323">118.25</text><text x=3D"3=
+92" y=3D"369">99.95</text><text x=3D"507" y=3D"415">148.93</text></g><g str=
+oke=3D"#757575" stroke-width=3D"1"><line x1=3D"519" y1=3D"70" x2=3D"519" y2=
+=3D"78"></line><line x1=3D"545" y1=3D"70" x2=3D"545" y2=3D"78"></line><line=
+ x1=3D"519" y1=3D"70" x2=3D"545" y2=3D"70"></line></g><g font-size=3D"7" fi=
+ll=3D"#FFFFFF" text-anchor=3D"start"><text x=3D"167" y=3D"79">MIN: 129.9 / =
+MAX: 599.37</text><text x=3D"167" y=3D"125">MIN: 102.89 / MAX: 112.16</text=
+><text x=3D"167" y=3D"171">MIN: 106.11 / MAX: 147.4</text><text x=3D"167" y=
+=3D"217">MIN: 83.28 / MAX: 114.43</text><text x=3D"167" y=3D"263">MIN: 99.0=
+5 / MAX: 133.46</text><text x=3D"167" y=3D"309">MIN: 102.75 / MAX: 145.82</=
+text><text x=3D"167" y=3D"355">MIN: 89.56 / MAX: 122.18</text><text x=3D"16=
+7" y=3D"401">MIN: 120.15 / MAX: 178.99</text></g></svg>
+</p><p align=3D"center"></p><h2>Ethr</h2><h3>Protocol: TCP - Test: Bandwidt=
+h - Threads: 8</h3><p align=3D"center"><svg xmlns=3D"http://www.w3.org/2000=
+/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" version=3D"1.1" font-fam=
+ily=3D"sans-serif, droid-sans, helvetica, verdana, tahoma" viewBox=3D"0 0 6=
+00 471" width=3D"600" height=3D"471" preserveAspectRatio=3D"xMinYMin meet">=
+<g stroke=3D"#757575" stroke-width=3D"1"><line x1=3D"163" y1=3D"64" x2=3D"1=
+63" y2=3D"433"></line><line x1=3D"163" y1=3D"432" x2=3D"586" y2=3D"432"></l=
+ine></g><text x=3D"585" y=3D"59" font-size=3D"8" fill=3D"#065695" text-anch=
+or=3D"end" font-weight=3D"bold">Phoronix Test Suite</text><polygon points=
+=3D"172,56 163,61 163,51" fill=3D"#065695" stroke=3D"#949494" stroke-width=
+=3D"1"></polygon><text x=3D"175" y=3D"59" font-size=3D"8" font-weight=3D"bo=
+ld" fill=3D"#065695" text-anchor=3D"start">Gbits/sec, More Is Better</text>=
+<a xlink:href=3D"https://openbenchmarking.org/test/pts/ethr" target=3D"_bla=
+nk"><text x=3D"6" y=3D"19" font-size=3D"17" fill=3D"#231f20" text-anchor=3D=
+"start" font-weight=3D"bold">Ethr 1.0</text></a><text x=3D"6" y=3D"36" font=
+-size=3D"11" font-weight=3D"bold" fill=3D"#231f20" text-anchor=3D"start">Pr=
+otocol: TCP - Test: Bandwidth - Threads: 8</text><path d=3D"m74 22v9m-5-16v=
+16m-5-28v28m-23-2h12.5c2.485281 0 4.5-2.014719 4.5-4.5s-2.014719-4.5-4.5-4.=
+5h-8c-2.485281 0-4.5-2.014719-4.5-4.5s2.014719-4.5 4.5-4.5h12.5m-21 5h-11m1=
+1 13h-2c-4.970563 0-9-4.029437-9-9v-20m-24 40v-20c0-4.970563 4.0294373-9 9-=
+9 4.970563 0 9 4.029437 9 9s-4.029437 9-9 9h-9" stroke=3D"#231f20" stroke-w=
+idth=3D"4" fill=3D"none" transform=3D"translate(508,4)"></path><line x1=3D"=
+163" y1=3D"110" x2=3D"163" y2=3D"421" stroke=3D"#757575" stroke-width=3D"11=
+" stroke-dasharray=3D"1,45"></line><g font-size=3D"11" fill=3D"#231f20" fon=
+t-weight=3D"bold" text-anchor=3D"end"><text y=3D"85" x=3D"158">hyperv-cento=
+s9</text><text y=3D"131" x=3D"158">esxi-centos9</text><text y=3D"177" x=3D"=
+158">debian-centos9</text><text y=3D"223" x=3D"158">rhel9-centos9</text><te=
+xt y=3D"269" x=3D"158">nutanix-centos9</text><text y=3D"315" x=3D"158">prox=
+mox-centos9</text><text y=3D"361" x=3D"158">harvester-centos9</text><text y=
+=3D"407" x=3D"158">ocpvirt418-centos9</text></g><g font-size=3D"10" fill=3D=
+"#065695" text-anchor=3D"middle"><text x=3D"235" y=3D"447">3</text><text x=
+=3D"305" y=3D"447">6</text><text x=3D"375" y=3D"447">9</text><text x=3D"445=
+" y=3D"447">12</text><text x=3D"515" y=3D"447">15</text></g><g stroke=3D"#B=
+ABABA" stroke-width=3D"1"><line x1=3D"235" y1=3D"64" x2=3D"235" y2=3D"427" =
+stroke-dasharray=3D"5,5"></line><line x1=3D"235" y1=3D"428" x2=3D"235" y2=
+=3D"437"></line><line x1=3D"305" y1=3D"64" x2=3D"305" y2=3D"427" stroke-das=
+harray=3D"5,5"></line><line x1=3D"305" y1=3D"428" x2=3D"305" y2=3D"437"></l=
+ine><line x1=3D"375" y1=3D"64" x2=3D"375" y2=3D"427" stroke-dasharray=3D"5,=
+5"></line><line x1=3D"375" y1=3D"428" x2=3D"375" y2=3D"437"></line><line x1=
+=3D"445" y1=3D"64" x2=3D"445" y2=3D"427" stroke-dasharray=3D"5,5"></line><l=
+ine x1=3D"445" y1=3D"428" x2=3D"445" y2=3D"437"></line><line x1=3D"515" y1=
+=3D"64" x2=3D"515" y2=3D"427" stroke-dasharray=3D"5,5"></line><line x1=3D"5=
+15" y1=3D"428" x2=3D"515" y2=3D"437"></line></g><g stroke=3D"#949494" strok=
+e-width=3D"1"><rect x=3D"163" y=3D"70" height=3D"34" width=3D"221" fill=3D"=
+#2196f3"></rect><rect x=3D"163" y=3D"116" height=3D"34" width=3D"221" fill=
+=3D"#2196f3"></rect><rect x=3D"163" y=3D"162" height=3D"34" width=3D"221" f=
+ill=3D"#2196f3"></rect><rect x=3D"163" y=3D"208" height=3D"34" width=3D"221=
+" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"254" height=3D"34" width=3D"=
+221" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"300" height=3D"34" width=
+=3D"219" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"346" height=3D"34" wi=
+dth=3D"219" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"392" height=3D"34"=
+ width=3D"217" fill=3D"#2196f3"></rect></g><g font-size=3D"8" fill=3D"#0656=
+95" text-anchor=3D"end"><text y=3D"101" x=3D"158">SE +/- 0.00, N =3D 3</tex=
+t><text y=3D"147" x=3D"158">SE +/- 0.00, N =3D 3</text><text y=3D"193" x=3D=
+"158">SE +/- 0.00, N =3D 3</text><text y=3D"239" x=3D"158">SE +/- 0.00, N =
+=3D 3</text><text y=3D"285" x=3D"158">SE +/- 0.00, N =3D 3</text><text y=3D=
+"331" x=3D"158">SE +/- 0.01, N =3D 3</text><text y=3D"377" x=3D"158">SE +/-=
+ 0.01, N =3D 3</text><text y=3D"423" x=3D"158">SE +/- 0.01, N =3D 3</text><=
+/g><g font-size=3D"10" fill=3D"#FFFFFF" font-weight=3D"bold" text-anchor=3D=
+"end"><text x=3D"379" y=3D"93">9.41</text><text x=3D"379" y=3D"139">9.42</t=
+ext><text x=3D"379" y=3D"185">9.41</text><text x=3D"379" y=3D"231">9.41</te=
+xt><text x=3D"379" y=3D"277">9.41</text><text x=3D"377" y=3D"323">9.36</tex=
+t><text x=3D"377" y=3D"369">9.33</text><text x=3D"375" y=3D"415">9.26</text=
+></g><g font-size=3D"7" fill=3D"#FFFFFF" text-anchor=3D"start"><text x=3D"1=
+67" y=3D"79">MIN: 9.39 / MAX: 9.44</text><text x=3D"167" y=3D"125">MIN: 9.3=
+7 / MAX: 9.45</text><text x=3D"167" y=3D"171">MIN: 9.36 / MAX: 9.43</text><=
+text x=3D"167" y=3D"217">MIN: 9.33 / MAX: 9.44</text><text x=3D"167" y=3D"2=
+63">MIN: 9.35 / MAX: 9.44</text><text x=3D"167" y=3D"309">MIN: 9.2 / MAX: 9=
+.45</text><text x=3D"167" y=3D"355">MIN: 8.32 / MAX: 9.44</text><text x=3D"=
+167" y=3D"401">MIN: 9.07 / MAX: 9.39</text></g></svg>
+</p><p align=3D"center"></p><h2>Ethr</h2><h3>Protocol: TCP - Test: Connecti=
+ons/s - Threads: 8</h3><p align=3D"center"><svg xmlns=3D"http://www.w3.org/=
+2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" version=3D"1.1" font=
+-family=3D"sans-serif, droid-sans, helvetica, verdana, tahoma" viewBox=3D"0=
+ 0 600 471" width=3D"600" height=3D"471" preserveAspectRatio=3D"xMinYMin me=
+et"><g stroke=3D"#757575" stroke-width=3D"1"><line x1=3D"163" y1=3D"64" x2=
+=3D"163" y2=3D"433"></line><line x1=3D"163" y1=3D"432" x2=3D"586" y2=3D"432=
+"></line></g><text x=3D"585" y=3D"59" font-size=3D"8" fill=3D"#065695" text=
+-anchor=3D"end" font-weight=3D"bold">Phoronix Test Suite</text><polygon poi=
+nts=3D"172,56 163,61 163,51" fill=3D"#065695" stroke=3D"#949494" stroke-wid=
+th=3D"1"></polygon><text x=3D"175" y=3D"59" font-size=3D"8" font-weight=3D"=
+bold" fill=3D"#065695" text-anchor=3D"start">Connections/sec, More Is Bette=
+r</text><a xlink:href=3D"https://openbenchmarking.org/test/pts/ethr" target=
+=3D"_blank"><text x=3D"6" y=3D"19" font-size=3D"17" fill=3D"#231f20" text-a=
+nchor=3D"start" font-weight=3D"bold">Ethr 1.0</text></a><text x=3D"6" y=3D"=
+36" font-size=3D"11" font-weight=3D"bold" fill=3D"#231f20" text-anchor=3D"s=
+tart">Protocol: TCP - Test: Connections/s - Threads: 8</text><path d=3D"m74=
+ 22v9m-5-16v16m-5-28v28m-23-2h12.5c2.485281 0 4.5-2.014719 4.5-4.5s-2.01471=
+9-4.5-4.5-4.5h-8c-2.485281 0-4.5-2.014719-4.5-4.5s2.014719-4.5 4.5-4.5h12.5=
+m-21 5h-11m11 13h-2c-4.970563 0-9-4.029437-9-9v-20m-24 40v-20c0-4.970563 4.=
+0294373-9 9-9 4.970563 0 9 4.029437 9 9s-4.029437 9-9 9h-9" stroke=3D"#231f=
+20" stroke-width=3D"4" fill=3D"none" transform=3D"translate(508,4)"></path>=
+<line x1=3D"163" y1=3D"110" x2=3D"163" y2=3D"421" stroke=3D"#757575" stroke=
+-width=3D"11" stroke-dasharray=3D"1,45"></line><g font-size=3D"11" fill=3D"=
+#231f20" font-weight=3D"bold" text-anchor=3D"end"><text y=3D"85" x=3D"158">=
+hyperv-centos9</text><text y=3D"131" x=3D"158">esxi-centos9</text><text y=
+=3D"177" x=3D"158">debian-centos9</text><text y=3D"223" x=3D"158">rhel9-cen=
+tos9</text><text y=3D"269" x=3D"158">nutanix-centos9</text><text y=3D"315" =
+x=3D"158">proxmox-centos9</text><text y=3D"361" x=3D"158">harvester-centos9=
+</text><text y=3D"407" x=3D"158">ocpvirt418-centos9</text></g><g font-size=
+=3D"10" fill=3D"#065695" text-anchor=3D"middle"><text x=3D"235" y=3D"447">1=
+10</text><text x=3D"305" y=3D"447">220</text><text x=3D"375" y=3D"447">330<=
+/text><text x=3D"445" y=3D"447">440</text><text x=3D"515" y=3D"447">550</te=
+xt></g><g stroke=3D"#BABABA" stroke-width=3D"1"><line x1=3D"235" y1=3D"64" =
+x2=3D"235" y2=3D"427" stroke-dasharray=3D"5,5"></line><line x1=3D"235" y1=
+=3D"428" x2=3D"235" y2=3D"437"></line><line x1=3D"305" y1=3D"64" x2=3D"305"=
+ y2=3D"427" stroke-dasharray=3D"5,5"></line><line x1=3D"305" y1=3D"428" x2=
+=3D"305" y2=3D"437"></line><line x1=3D"375" y1=3D"64" x2=3D"375" y2=3D"427"=
+ stroke-dasharray=3D"5,5"></line><line x1=3D"375" y1=3D"428" x2=3D"375" y2=
+=3D"437"></line><line x1=3D"445" y1=3D"64" x2=3D"445" y2=3D"427" stroke-das=
+harray=3D"5,5"></line><line x1=3D"445" y1=3D"428" x2=3D"445" y2=3D"437"></l=
+ine><line x1=3D"515" y1=3D"64" x2=3D"515" y2=3D"427" stroke-dasharray=3D"5,=
+5"></line><line x1=3D"515" y1=3D"428" x2=3D"515" y2=3D"437"></line></g><g s=
+troke=3D"#949494" stroke-width=3D"1"><rect x=3D"163" y=3D"70" height=3D"34"=
+ width=3D"326" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"116" height=3D"=
+34" width=3D"326" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"162" height=
+=3D"34" width=3D"320" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"208" hei=
+ght=3D"34" width=3D"326" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"254" =
+height=3D"34" width=3D"318" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"30=
+0" height=3D"34" width=3D"315" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D=
+"346" height=3D"34" width=3D"326" fill=3D"#2196f3"></rect><rect x=3D"163" y=
+=3D"392" height=3D"34" width=3D"324" fill=3D"#2196f3"></rect></g><g font-si=
+ze=3D"8" fill=3D"#065695" text-anchor=3D"end"><text y=3D"101" x=3D"158">SE =
++/- 0.00, N =3D 3</text><text y=3D"147" x=3D"158">SE +/- 0.00, N =3D 3</tex=
+t><text y=3D"193" x=3D"158">SE +/- 9.08, N =3D 12</text><text y=3D"239" x=
+=3D"158">SE +/- 0.00, N =3D 3</text><text y=3D"285" x=3D"158">SE +/- 12.17,=
+ N =3D 12</text><text y=3D"331" x=3D"158">SE +/- 18.25, N =3D 12</text><tex=
+t y=3D"377" x=3D"158">SE +/- 0.00, N =3D 3</text><text y=3D"423" x=3D"158">=
+SE +/- 4.09, N =3D 9</text></g><g font-size=3D"10" fill=3D"#FFFFFF" font-we=
+ight=3D"bold" text-anchor=3D"end"><text x=3D"484" y=3D"93">510</text><text =
+x=3D"484" y=3D"139">510</text><text x=3D"478" y=3D"185">501</text><text x=
+=3D"484" y=3D"231">510</text><text x=3D"476" y=3D"277">498</text><text x=3D=
+"473" y=3D"323">492</text><text x=3D"484" y=3D"369">510</text><text x=3D"48=
+2" y=3D"415">507</text></g><g font-size=3D"7" fill=3D"#FFFFFF" text-anchor=
+=3D"start"><text x=3D"167" y=3D"79">MAX: 1020</text><text x=3D"167" y=3D"12=
+5">MAX: 1020</text><text x=3D"167" y=3D"171">MAX: 1020</text><text x=3D"167=
+" y=3D"217">MAX: 1020</text><text x=3D"167" y=3D"263">MAX: 1020</text><text=
+ x=3D"167" y=3D"309">MAX: 1020</text><text x=3D"167" y=3D"355">MAX: 1020</t=
+ext><text x=3D"167" y=3D"401">MAX: 1020</text></g><g stroke=3D"#757575" str=
+oke-width=3D"1"><line x1=3D"477" y1=3D"162" x2=3D"477" y2=3D"170"></line><l=
+ine x1=3D"489" y1=3D"162" x2=3D"489" y2=3D"170"></line><line x1=3D"477" y1=
+=3D"162" x2=3D"489" y2=3D"162"></line></g><g stroke=3D"#757575" stroke-widt=
+h=3D"1"><line x1=3D"473" y1=3D"254" x2=3D"473" y2=3D"262"></line><line x1=
+=3D"489" y1=3D"254" x2=3D"489" y2=3D"262"></line><line x1=3D"473" y1=3D"254=
+" x2=3D"489" y2=3D"254"></line></g><g stroke=3D"#757575" stroke-width=3D"1"=
+><line x1=3D"466" y1=3D"300" x2=3D"466" y2=3D"308"></line><line x1=3D"490" =
+y1=3D"300" x2=3D"490" y2=3D"308"></line><line x1=3D"466" y1=3D"300" x2=3D"4=
+90" y2=3D"300"></line></g></svg>
+</p><p align=3D"center"></p><h2>iPerf</h2><h3>Duration: 60 Seconds - Test: =
+TCP - Parallel: 10</h3><p align=3D"center"><svg xmlns=3D"http://www.w3.org/=
+2000/svg" xmlns:xlink=3D"http://www.w3.org/1999/xlink" version=3D"1.1" font=
+-family=3D"sans-serif, droid-sans, helvetica, verdana, tahoma" viewBox=3D"0=
+ 0 600 504" width=3D"600" height=3D"504" preserveAspectRatio=3D"xMinYMin me=
+et"><g stroke=3D"#757575" stroke-width=3D"1"><line x1=3D"163" y1=3D"64" x2=
+=3D"163" y2=3D"433"></line><line x1=3D"163" y1=3D"432" x2=3D"586" y2=3D"432=
+"></line></g><text x=3D"585" y=3D"59" font-size=3D"8" fill=3D"#065695" text=
+-anchor=3D"end" font-weight=3D"bold">Phoronix Test Suite</text><polygon poi=
+nts=3D"172,56 163,61 163,51" fill=3D"#065695" stroke=3D"#949494" stroke-wid=
+th=3D"1"></polygon><text x=3D"175" y=3D"59" font-size=3D"8" font-weight=3D"=
+bold" fill=3D"#065695" text-anchor=3D"start">Mbits/sec, More Is Better</tex=
+t><a xlink:href=3D"https://openbenchmarking.org/test/pts/iperf" target=3D"_=
+blank"><text x=3D"6" y=3D"19" font-size=3D"17" fill=3D"#231f20" text-anchor=
+=3D"start" font-weight=3D"bold">iPerf 3.14</text></a><text x=3D"6" y=3D"36"=
+ font-size=3D"11" font-weight=3D"bold" fill=3D"#231f20" text-anchor=3D"star=
+t">Duration: 60 Seconds - Test: TCP - Parallel: 10</text><path d=3D"m74 22v=
+9m-5-16v16m-5-28v28m-23-2h12.5c2.485281 0 4.5-2.014719 4.5-4.5s-2.014719-4.=
+5-4.5-4.5h-8c-2.485281 0-4.5-2.014719-4.5-4.5s2.014719-4.5 4.5-4.5h12.5m-21=
+ 5h-11m11 13h-2c-4.970563 0-9-4.029437-9-9v-20m-24 40v-20c0-4.970563 4.0294=
+373-9 9-9 4.970563 0 9 4.029437 9 9s-4.029437 9-9 9h-9" stroke=3D"#231f20" =
+stroke-width=3D"4" fill=3D"none" transform=3D"translate(508,4)"></path><lin=
+e x1=3D"163" y1=3D"110" x2=3D"163" y2=3D"388" stroke=3D"#757575" stroke-wid=
+th=3D"11" stroke-dasharray=3D"1,45"></line><g font-size=3D"11" fill=3D"#231=
+f20" font-weight=3D"bold" text-anchor=3D"end"><text y=3D"85" x=3D"158">hype=
+rv-centos9</text><text y=3D"131" x=3D"158">esxi-centos9</text><text y=3D"17=
+7" x=3D"158">debian-centos9</text><text y=3D"223" x=3D"158">rhel9-centos9</=
+text><text y=3D"269" x=3D"158">nutanix-centos9</text><text y=3D"315" x=3D"1=
+58">proxmox-centos9</text><text y=3D"361" x=3D"158">harvester-centos9</text=
+><text y=3D"407" x=3D"158">ocpvirt418-centos9</text></g><g font-size=3D"10"=
+ fill=3D"#065695" text-anchor=3D"middle"><text x=3D"235" y=3D"447">2K</text=
+><text x=3D"305" y=3D"447">4K</text><text x=3D"375" y=3D"447">6K</text><tex=
+t x=3D"445" y=3D"447">8K</text><text x=3D"515" y=3D"447">10K</text></g><g s=
+troke=3D"#BABABA" stroke-width=3D"1"><line x1=3D"235" y1=3D"64" x2=3D"235" =
+y2=3D"427" stroke-dasharray=3D"5,5"></line><line x1=3D"235" y1=3D"428" x2=
+=3D"235" y2=3D"437"></line><line x1=3D"305" y1=3D"64" x2=3D"305" y2=3D"427"=
+ stroke-dasharray=3D"5,5"></line><line x1=3D"305" y1=3D"428" x2=3D"305" y2=
+=3D"437"></line><line x1=3D"375" y1=3D"64" x2=3D"375" y2=3D"427" stroke-das=
+harray=3D"5,5"></line><line x1=3D"375" y1=3D"428" x2=3D"375" y2=3D"437"></l=
+ine><line x1=3D"445" y1=3D"64" x2=3D"445" y2=3D"427" stroke-dasharray=3D"5,=
+5"></line><line x1=3D"445" y1=3D"428" x2=3D"445" y2=3D"437"></line><line x1=
+=3D"515" y1=3D"64" x2=3D"515" y2=3D"427" stroke-dasharray=3D"5,5"></line><l=
+ine x1=3D"515" y1=3D"428" x2=3D"515" y2=3D"437"></line></g><g stroke=3D"#94=
+9494" stroke-width=3D"1"><rect x=3D"163" y=3D"70" height=3D"34" width=3D"33=
+1" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"116" height=3D"34" width=3D=
+"331" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"162" height=3D"34" width=
+=3D"331" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"208" height=3D"34" wi=
+dth=3D"331" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"254" height=3D"34"=
+ width=3D"331" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"300" height=3D"=
+34" width=3D"330" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"346" height=
+=3D"34" width=3D"328" fill=3D"#2196f3"></rect><rect x=3D"163" y=3D"392" hei=
+ght=3D"34" width=3D"325" fill=3D"#2196f3"></rect></g><g font-size=3D"8" fil=
+l=3D"#065695" text-anchor=3D"end"><text y=3D"101" x=3D"158">SE +/- 6.67, N =
+=3D 3</text><text y=3D"147" x=3D"158">SE +/- 0.00, N =3D 3</text><text y=3D=
+"193" x=3D"158">SE +/- 0.88, N =3D 3</text><text y=3D"239" x=3D"158">SE +/-=
+ 1.45, N =3D 3</text><text y=3D"285" x=3D"158">SE +/- 3.51, N =3D 3</text><=
+text y=3D"331" x=3D"158">SE +/- 7.54, N =3D 3</text><text y=3D"377" x=3D"15=
+8">SE +/- 9.77, N =3D 3</text><text y=3D"423" x=3D"158">SE +/- 8.65, N =3D =
+3</text></g><g font-size=3D"10" fill=3D"#FFFFFF" font-weight=3D"bold" text-=
+anchor=3D"end"><text x=3D"489" y=3D"93">9408</text><text x=3D"489" y=3D"139=
+">9415</text><text x=3D"489" y=3D"185">9407</text><text x=3D"489" y=3D"231"=
+>9410</text><text x=3D"489" y=3D"277">9406</text><text x=3D"488" y=3D"323">=
+9371</text><text x=3D"486" y=3D"369">9313</text><text x=3D"483" y=3D"415">9=
+242</text></g><text x=3D"5" y=3D"472" font-size=3D"8" fill=3D"#231f20" text=
+-anchor=3D"start">1. (CC) gcc options: -O3 -march=3Dnative -lssl -lcrypto -=
+lm</text></svg>
+</p><p align=3D"center"></p><hr><p align=3D"center">Phoronix Test Suite v10=
+.8.5</p></body></html>
+------MultipartBoundary--sXGmf0IFMrDEwzmZc9ayDxQr6SpXG4bMG6EKYiHZNo------
